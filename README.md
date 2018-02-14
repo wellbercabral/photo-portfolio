@@ -1,6 +1,6 @@
 # Photo Portfolio
 
-> A simple project to learn git and github.
+> A simple project to learn git and github commands and workflows.
 
 Big Picture by HTML5 UP
 
